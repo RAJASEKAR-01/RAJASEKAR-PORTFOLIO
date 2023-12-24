@@ -1,0 +1,45 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(/mountain.jpg);
+    height:750px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    padding:200px 0px;
+    
+}
+.skill-padding{
+    padding: 80px 0px;
+}
+#contact{
+    background-image: url(/leaf.jpg);
+    min-height: 750px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    padding:200px 0px;
+}
+#about{
+    background-image: url(/ocean.jpg);
+    height:750px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    padding:200px 0px;
+
+}
+#skill{
+    background-image: url(/notebook.jpg);
+    min-height: 750px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    padding:200px 0px;
+}
+
