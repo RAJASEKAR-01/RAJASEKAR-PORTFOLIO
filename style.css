@@ -2,7 +2,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .banner{
-    background-image: url(/mountain.jpg);
+    background-image: url(./mountain.jpg);
     height:750px;
     background-size:cover;
     background-repeat: no-repeat;
