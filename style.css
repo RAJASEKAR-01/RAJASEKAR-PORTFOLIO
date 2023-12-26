@@ -2,7 +2,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .banner{
-    background-image: url(./mountain.jpg);
+    background-image: url(./blue\ &\ pink.jpg);
     height:750px;
     background-size:cover;
     background-repeat: no-repeat;
@@ -52,7 +52,8 @@
     width:500px;
 }
 #resume{
-    background-image: url(./leaf.jpg);
+
+    background-image: url(./blue\ &\ pink.jpg);
     min-height: 750px;
     background-size:cover;
     background-repeat: no-repeat;
