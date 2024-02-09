@@ -1,6 +1,10 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-family: 'Protest Riot', sans-serif;
+
+}
 .banner{
     background-image: url(./blue\ &\ pink.jpg);
     height:750px;
