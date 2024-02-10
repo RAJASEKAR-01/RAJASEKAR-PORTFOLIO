@@ -1,9 +1,15 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 h1{
     font-family: 'Protest Riot', sans-serif;
 
+}
+.navbar{
+    height:80px ;
 }
 .banner{
     background-image: url(./blue\ &\ pink.jpg);
@@ -51,10 +57,21 @@ h1{
   
     max-width: 500px;
     min-height: 700px;
+    
+    
 }
 .img-h{
     height:700px;
     width:500px;
+    margin: auto;
+    border-radius: 25px;
+    
+}
+.card {
+    border-radius: 25px;
+    width:282px;
+    height:192px;
+    margin: auto;
 }
 #resume{
 
@@ -96,4 +113,7 @@ h1{
     transform: scaleX(1);
     transform-origin: bottom left;
 
+}
+.img-border{
+    border-radius: 25px;
 }
