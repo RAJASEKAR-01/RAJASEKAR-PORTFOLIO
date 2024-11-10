@@ -10,7 +10,7 @@ h1{
 }
 .banner{
     background-image: url(./blue\ &\ pink.jpg);
-    height:750px;
+    min-height: 100vh;
     background-size:cover;
     background-repeat: no-repeat;
     background-position:center;
